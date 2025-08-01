@@ -8,9 +8,9 @@ Donella Meadows’s *Thinking in Systems* offers one particularly useful framewo
 
 Knowing these traps can help you more quickly identify the nature of a systemic problem, the causes to focus your reporting on, and what questions to ask regarding solutions.
 
-Here are the traps:
+Here are the traps with links to the pages on each:
 
-1. **Fixes that fail** (also known as policy resistance) are traps where policies just don’t seem to work — or actively make things worse. Think of the ‘war on drugs’ or health reforms that lead to longer waiting lists. Investigations here often involve asking: what goals are in conflict?
+1. **[Fixes that fail](https://github.com/paulbradshaw/systemsthinking/blob/main/systemtraps/policyresistance.md)** (also known as policy resistance) are traps where policies just don’t seem to work — or actively make things worse. Think of the ‘war on drugs’ or health reforms that lead to longer waiting lists. Investigations here often involve asking: what goals are in conflict?
 
 2. The **tragedy of the commons** is a well-known problem, when shared resources — from fisheries to emergency services — are overused or abused, and everyone suffers. This trap provides a structure for reporting on degraded environments, overstretched systems, or poorly regulated access.
 
@@ -26,7 +26,6 @@ Here are the traps:
 
 8. **Seeking the wrong goal**: when metrics distort what matters, performance indicators become perverse incentives. Whether it’s hospitals prioritising targets over patients or schools ‘off-rolling’ students to boost grades, these are stories where the numbers don’t tell the whole truth.
 
-There's a lot more that can be learned from each trap, so in the following weeks I'll be [digging more deeply into each one](https://onlinejournalismblog.com/tag/system-traps/), looking at examples of investigations and other formats that have been used to report on them, key questions to ask, and how to use another concept from Meadows's book: **leverage points**.
 
 
 
