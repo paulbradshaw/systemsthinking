@@ -18,7 +18,7 @@ Daily news reporting is full of policy stories, which means plenty of potential 
 - Nurses reject a pay offer
 - [China-backed centres at UK universities under threat from new free speech laws](https://www.theguardian.com/education/2025/aug/01/china-backed-centres-at-uk-universities-under-threat-from-new-free-speech-laws)
 - A report calling for parents' instinct to be taken into account as part of guidance on medical diagnosis
-- An activist says British police asked her to "avoid attending public gatherings" as part of their safeguarding processes/tactics
+- An activist says British police asked her to "avoid attending public gatherings" as part of their safeguarding processes/tactics (the policy's stated goal is to keep someone safe, but this conflicts with the individual's goal to participate in protest)
 
 Some of these examples involve considering who might have different goals to the policy's stated goals. For example:
 
