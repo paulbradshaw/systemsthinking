@@ -16,6 +16,18 @@ Daily news reporting is full of policy stories, which means plenty of potential 
 - Calls for a wealth tax  
 - Aid distribution policy in Gaza  
 - Nurses reject a pay offer
+- [China-backed centres at UK universities under threat from new free speech laws](https://www.theguardian.com/education/2025/aug/01/china-backed-centres-at-uk-universities-under-threat-from-new-free-speech-laws)
+
+Some of these examples involve considering who might have different goals to the policy's stated goals. For example:
+
+* A wealth tax has the stated goal of raising revenue for public services. But those likely to be targeted by the tax may have goals that conflict with that (such as a goal to maximise wealth). What might they do in seeking their own goals that undermines the policy's goals?
+* The political party itself has other goals, including raising money to campaign and win elections. If donors are likely to be affected by the wealth tax, there is another potential conflict.
+
+Some examples involve identifying potential conflicts of goals. For example, [China-backed centres at UK universities under threat from new free speech laws](https://www.theguardian.com/education/2025/aug/01/china-backed-centres-at-uk-universities-under-threat-from-new-free-speech-laws):
+
+> "Universities fear that the new regulations imposed by the Office for Students (OfS) this month will cause legal headaches with their Chinese partners, including the government in Beijing, and could lead to some being closed ... university leaders said they have asked the OfS for more time to investigate and negotiate with their partners. A spokesperson for the OfS said: “Any institution not meeting their free speech obligations should take urgent action."
+
+Such conflict could lead to the policy being watered down or delayed. 
 
 ## Examples of policy resistance
 
