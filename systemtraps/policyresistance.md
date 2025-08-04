@@ -24,7 +24,8 @@ Daily news reporting is full of policy stories, which means plenty of potential 
 
 - [Calls for a wealth tax](https://www.bbc.co.uk/news/articles/cx242gw70x7o)
 - [Aid distribution policy in Gaza](https://www.theguardian.com/world/2025/jul/31/the-mathematics-of-starvation-how-israel-caused-a-famine-in-gaza)
-- Nurses reject a pay offer
+- [Government vows 'major crackdown' on people smuggling gangs](https://news.sky.com/story/100m-border-security-boost-as-govt-vows-major-crackdown-on-people-smuggling-gangs-13406163)
+- [Government announces a new programme to "revive family services across the country and improve early years provision"](https://lgiu.org/briefing/how-can-local-authorities-best-deliver-the-governments-new-programme-for-early-years-provision/)
 - [China-backed centres at UK universities under threat from new free speech laws](https://www.theguardian.com/education/2025/aug/01/china-backed-centres-at-uk-universities-under-threat-from-new-free-speech-laws)
 - A report calling for parents' instinct to be taken into account as part of guidance on medical diagnosis
 - An activist says British police asked her to "avoid attending public gatherings" as part of their safeguarding processes/tactics (the policy's stated goal is to keep someone safe, but this conflicts with the individual's goal to participate in protest)
