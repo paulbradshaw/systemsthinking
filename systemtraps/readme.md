@@ -18,7 +18,7 @@ Here are the traps with links to the pages on each:
 
 4. **Escalation** traps will be familiar from stories on "arms races" or "races to the bottom" where actors compete to outdo or undercut each other, triggering a spiral. These stories include competition around spending or technology, algorithm-driven polarisation, price wars, or where tax or regulation gets increasingly reduced.
 
-5. **Success to the successful** sees the rich get richer, and the powerful more powerful. It’s a feedback loop that appears in monopolies, but also sport, private education and unequal health systems, despite rules designed to ensure fair competition.
+5. **[Success to the successful](successtosuccessful.md)** sees the rich get richer, and the powerful more powerful. It’s a feedback loop that appears in monopolies, but also sport, private education and unequal health systems, despite rules designed to ensure fair competition.
 
 6. **Shifting the burden to the intervenor**: this is the trap of addiction to short-term fixes — like subsidies, outsourcing or punitive enforcement — instead of tackling root causes. Examples include cheap energy and credit or the use of police and prisons as short-term fixes for mental health and addiction problems. Stories in this category often question whether interventions are masking deeper failures or tougher choices.
 
