@@ -20,8 +20,9 @@ Other forces to consider include [first-mover advantage](https://en.wikipedia.or
 - **What to look for**: Self-reinforcing inequality (e.g. funding that rewards institutions with better resources, [reviews](https://parliamentnews.co.uk/nhs-review-based-funding-plan-raises-concerns) or results), whistleblowers, network effects, regulatory effectiveness, lobbying for regulatory change, tax deals and subsidies, 'bundling' of products
 - **Questions to ask**: Who controls key resources? Are newer players being excluded? What is the experience of those at the bottom of the supply chain? What complaints are being raised with regulators? What reports are produced by regulators internally?
 
+## Monopolies outside of regulation
 
-The war on drugs is not only a story of policy resistance (or 'fixes that fail'), it also hands an unfair advantage to winners. As [one analysis puts it](https://www.cato.org/policy-analysis/four-decades-counting-continued-failure-war-drugs): 
+Laws exist to prevent monopolies - but what about industries outside of the law? The war on drugs is not only a story of policy resistance (or 'fixes that fail'), it also hands an unfair advantage to winners. As [one analysis puts it](https://www.cato.org/policy-analysis/four-decades-counting-continued-failure-war-drugs): 
 
 > "drug prohibition keeps some suppliers out of the drug market—those unwilling or unable to take the risks associated with operating in an illicit industry. Those individuals and groups that remain are those more comfortable with using violence and engaging in illicit activity. In a legal market for drugs, not only would the costs and benefits of using violence change (violence would be less attractive), but new entrants could more easily penetrate the market. Over time, monopoly power would be eroded as in other competitive markets. As such, cartels would be unlikely to form and would be extremely difficult, if not impossible, to maintain.
 
