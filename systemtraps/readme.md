@@ -24,7 +24,7 @@ Here are the traps with links to the pages on each:
 
 7. **Rule beating**: legal loopholes, workarounds, and technicalities that break the spirit of the rules while staying on the right side of the law. From tax avoidance to 'gaming the system' to get funding, this is classic investigative territory.
 
-8. **Seeking the wrong goal**: when metrics distort what matters, performance indicators become perverse incentives. Whether it’s hospitals prioritising targets over patients or schools ‘off-rolling’ students to boost grades, these are stories where the numbers don’t tell the whole truth.
+8. **[Seeking the wrong goal](wronggoal.md)**: when metrics distort what matters, performance indicators become perverse incentives. Whether it’s hospitals prioritising targets over patients or schools ‘off-rolling’ students to boost grades, these are stories where the numbers don’t tell the whole truth.
 
 [A video on the eight system traps can be seen here](https://www.youtube.com/watch?v=BYSFvq8sr7A)
 
