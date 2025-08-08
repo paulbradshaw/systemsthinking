@@ -29,9 +29,13 @@ https://www.youtube.com/watch?v=oWO4OBIinhs
 
 The last few stories highlight that a resource's limits may be set by political or financial decisions, such as reduced funding for hospitals and staff, or for other parts of the system. The scale of "[Bed blocking](https://fullfact.org/health/bed-blocking-what-it-and-it-paralysing-nhs/)" or "[stranded patients](https://www.theguardian.com/society/2021/dec/12/number-of-healthy-patients-stranded-in-english-hospital-wards-rises-by-80)" for example, may not be because more people are getting ill, but because of a reduction in hospital beds, and in hospitals' inability to release patients due to a lack of social care facilities. 
 
+So in some cases the commons are limited through political decisions and budgets, while in others (e.g. air, sea ice) the commons have 'natural' limits. There will also be natural resources that can, to a limited extent, be re-supplied. Trees can be planted, for example, and endangered species can be bred - but not instantly. 
+
 It's useful to define what a "common good" is. One [economic definition](https://www.economicsonline.co.uk/definitions/untitled-7.html/) describes it as "a quasi-public good that is non-excludable and rival" - the "rival" element means that one person using it means there is less left for others, and the "excludable" element means its availability cannot be stopped for non-payers. On this basis, public services which don't exclude people (because they or their families have already paid, or will pay, through their taxes) still come under the definition, but not services like street lighting which are non-rivalrous, i.e. it doesn't matter how many people using them. 
 
+## Look at supply and demand
 
+While the 'tragedy' of the commons focuses on overconsumption, it's important to look at supply. 
 
 
 * [*Science*'s investigation into fisheries](https://gijn.org/stories/investigation-reveals-global-fisheries-already-collapsed/) "tested how accurate estimates of fish stocks actually are" (monitoring).
