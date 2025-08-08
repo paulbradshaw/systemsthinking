@@ -20,13 +20,18 @@ Unsurprisingly, most examples of this system trap come from environmental report
 Outside of environmental issues, there are examples in health and justice:
 
 * The BBC looks at "[How we can stop antibiotic resistance](https://www.bbc.co.uk/future/article/20170607-how-we-can-stop-antibiotic-resistance)", a tragedy caused by overuse of antibiotics in both humans and animals
+* Our attention is the scarce resource at the centre of a number of stories about the attention economy. Johann Hari's book [Stolen Focus](https://stolenfocusbook.com/) explores the tragedy unfolding as a result of that resource being subjected to excessive demands. 
 * Public health services are a common resource that can suffer from overuse, forming the basis of stories like [Undercover A&E: NHS in Crisis](https://www.channel4.com/programmes/undercover-ae-nhs-in-crisis-dispatches) and [The 10 'longest' hospital delays exposed](https://www.bbc.co.uk/news/health-38896155)
 * The Globe and Mail looked at "[How Canada’s FOI system broke under its own weight](https://www.theglobeandmail.com/canada/article-canada-freedom-of-information-laws/)"
 * "Cuts to legal aid have created "deserts" of provision across England and Wales", a [BBC investigation found](https://www.bbc.co.uk/news/uk-46357169)
 
 https://www.youtube.com/watch?v=oWO4OBIinhs
 
-In non-environmental stories it is important to recognise that a resource's limits may be set by political or financial decisions, such as reduced funding for hospitals and staff, or for other parts of the system. The scale of "[Bed blocking](https://fullfact.org/health/bed-blocking-what-it-and-it-paralysing-nhs/)" or "[stranded patients](https://www.theguardian.com/society/2021/dec/12/number-of-healthy-patients-stranded-in-english-hospital-wards-rises-by-80)" for example, may not be because more people are getting ill, but because of a reduction in hospital beds, and in hospitals' inability to release patients due to a lack of social care facilities. 
+The last few stories highlight that a resource's limits may be set by political or financial decisions, such as reduced funding for hospitals and staff, or for other parts of the system. The scale of "[Bed blocking](https://fullfact.org/health/bed-blocking-what-it-and-it-paralysing-nhs/)" or "[stranded patients](https://www.theguardian.com/society/2021/dec/12/number-of-healthy-patients-stranded-in-english-hospital-wards-rises-by-80)" for example, may not be because more people are getting ill, but because of a reduction in hospital beds, and in hospitals' inability to release patients due to a lack of social care facilities. 
+
+It's useful to define what a "common good" is. One [economic definition](https://www.economicsonline.co.uk/definitions/untitled-7.html/) describes it as "a quasi-public good that is non-excludable and rival" - the "rival" element means that one person using it means there is less left for others, and the "excludable" element means its availability cannot be stopped for non-payers. On this basis, public services which don't exclude people (because they or their families have already paid, or will pay, through their taxes) still come under the definition, but not services like street lighting which are non-rivalrous, i.e. it doesn't matter how many people using them. 
+
+
 
 
 * [*Science*'s investigation into fisheries](https://gijn.org/stories/investigation-reveals-global-fisheries-already-collapsed/) "tested how accurate estimates of fish stocks actually are" (monitoring).
@@ -49,7 +54,7 @@ A potential story on this system failure might draw on political scientist **Eli
 - What does the **conflict resolution process** look like — or is it missing?
 - Are **local voices** recognised — or excluded?
 
-
+BBC World Service's One Planet [looks at the tragedy of the commons](https://www.bbc.co.uk/sounds/play/p00q86y2)
 
 ![](https://www.economicsonline.co.uk/content/images/2023/05/Tragedy-of-the-Commons-2.webp)
 
