@@ -10,9 +10,9 @@ Knowing these traps can help you more quickly identify the nature of a systemic 
 
 Here are the traps with links to the pages on each:
 
-1. **[Fixes that fail](https://github.com/paulbradshaw/systemsthinking/blob/main/systemtraps/policyresistance.md)** (also known as policy resistance) are traps where policies just don’t seem to work — or actively make things worse. Think of the ‘war on drugs’ or health reforms that lead to longer waiting lists. Investigations here often involve asking: what goals are in conflict?
+1. **[Fixes that fail](policyresistance.md)** (also known as policy resistance) are traps where policies just don’t seem to work — or actively make things worse. Think of the ‘war on drugs’ or health reforms that lead to longer waiting lists. Investigations here often involve asking: what goals are in conflict?
 
-2. The **tragedy of the commons** is a well-known problem, when shared resources — from fisheries to emergency services — are overused or abused, and everyone suffers. This trap provides a structure for reporting on degraded environments, overstretched systems, or poorly regulated access.
+2. The **[tragedy of the commons](tragedyofthecommons.md)** is a well-known problem, when shared resources — from fisheries to emergency services — are overused or abused, and everyone suffers. This trap provides a structure for reporting on degraded environments, overstretched systems, or poorly regulated access.
 
 3. **Eroding goals** (also called drift to low performance or the boiled frog trap) sees standards slipping gradually until dysfunction becomes the norm. In education and healthcare, this shows up in grade inflation, raised thresholds for support, or weakened protections.
 
