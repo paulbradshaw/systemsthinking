@@ -27,3 +27,7 @@ Laws exist to prevent monopolies - but what about industries outside of the law?
 > "drug prohibition keeps some suppliers out of the drug market—those unwilling or unable to take the risks associated with operating in an illicit industry. Those individuals and groups that remain are those more comfortable with using violence and engaging in illicit activity. In a legal market for drugs, not only would the costs and benefits of using violence change (violence would be less attractive), but new entrants could more easily penetrate the market. Over time, monopoly power would be eroded as in other competitive markets. As such, cartels would be unlikely to form and would be extremely difficult, if not impossible, to maintain.
 
 > "higher costs tend to force out smaller producers, leaving larger producers to dominate the market. Without the resources and connections to avoid eradication efforts, smaller producers made easy targets. And by pursuing small producers, local leaders and other officials could show they were doing something to combat opium production. The result was that large producers thrived. These same producers became increasingly integrated with the Taliban, who developed a cartel over the country’s opium production.
+
+
+
+Who regulates monopolies? In the UK the Competition and Markets Authority [lists its cases online](https://www.gov.uk/cma-cases)
