@@ -22,7 +22,7 @@ Here are the traps with links to the pages on each:
 
 6. **Shifting the burden to the intervenor**: this is the trap of addiction to short-term fixes — like subsidies, outsourcing or punitive enforcement — instead of tackling root causes. Examples include cheap energy and credit or the use of police and prisons as short-term fixes for mental health and addiction problems. Stories in this category often question whether interventions are masking deeper failures or tougher choices.
 
-7. **Rule beating**: legal loopholes, workarounds, and technicalities that break the spirit of the rules while staying on the right side of the law. From tax avoidance to 'gaming the system' to get funding, this is classic investigative territory.
+7. **[Rule beating](rulebeating.md)**: legal loopholes, workarounds, and technicalities that break the spirit of the rules while staying on the right side of the law. From tax avoidance to 'gaming the system' to get funding, this is classic investigative territory.
 
 8. **[Seeking the wrong goal](wronggoal.md)**: when metrics distort what matters, performance indicators become perverse incentives. Whether it’s hospitals prioritising targets over patients or schools ‘off-rolling’ students to boost grades, these are stories where the numbers don’t tell the whole truth.
 
